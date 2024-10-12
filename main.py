@@ -24,3 +24,12 @@
 # from Conditional import *
 # age = int(input("Enter your age: "))
 # fun(age)
+
+# ----------------------------------program 4-----------------------------------------
+
+from ListAndTuples import *
+# print(marks)
+# print(type(marks))
+# print(len(marks))
+# print(student)
+print(marks)
