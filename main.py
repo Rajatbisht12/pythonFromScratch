@@ -11,7 +11,7 @@
 # print(f"The greeting is: {greet(name)}")
 
 # --------------------------------program 2 ------------------------------------------
-from String import *
+# from String import *
 # print(length)
 # print(str3)
 # for i in range(0,len(str2)):
@@ -21,3 +21,6 @@ from String import *
 # print(len(name))
 # ----------------------------------program 3-----------------------------------------
 
+# from Conditional import *
+# age = int(input("Enter your age: "))
+# fun(age)
