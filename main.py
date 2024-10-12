@@ -34,7 +34,7 @@
 # print(student)
 # print(marks)
 
-from Questions import *
+# from Questions import *
 
 # print(list)
 # list1 = list.copy().reverse()
@@ -45,5 +45,15 @@ from Questions import *
 #     print("List is not same")
 
 # print(tup.count("A"))
-list.sort()
-print(list)
+# list.sort()
+# print(list)
+
+# ----------------------------------program 5-----------------------------------------
+
+from Dictionary import *
+
+print(info)
+print(list(info.keys()))
+print(list(info.values()))
+print(info.items())
+print(info.get("name"))
