@@ -27,9 +27,23 @@
 
 # ----------------------------------program 4-----------------------------------------
 
-from ListAndTuples import *
+# from ListAndTuples import *
 # print(marks)
 # print(type(marks))
 # print(len(marks))
 # print(student)
-print(marks)
+# print(marks)
+
+from Questions import *
+
+# print(list)
+# list1 = list.copy().reverse()
+
+# if(list1 == list):
+#     print("List is same")
+# else:
+#     print("List is not same")
+
+# print(tup.count("A"))
+list.sort()
+print(list)
