@@ -52,8 +52,13 @@
 
 from Dictionary import *
 
-print(info)
-print(list(info.keys()))
-print(list(info.values()))
-print(info.items())
-print(info.get("name"))
+# print(info)
+# print(list(info.keys()))
+# print(list(info.values()))
+# print(info.items())
+# print(info.get("name"))
+print(collection)
+print(collec)
+print(type(collection))
+print(len(collec))
+print(empty_Set)
