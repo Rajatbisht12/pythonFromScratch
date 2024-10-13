@@ -50,15 +50,27 @@
 
 # ----------------------------------program 5-----------------------------------------
 
-from Dictionary import *
+# from Dictionary import *
 
-# print(info)
-# print(list(info.keys()))
-# print(list(info.values()))
-# print(info.items())
-# print(info.get("name"))
-print(collection)
-print(collec)
-print(type(collection))
-print(len(collec))
-print(empty_Set)
+# # print(info)
+# # print(list(info.keys()))
+# # print(list(info.values()))
+# # print(info.items())
+# # print(info.get("name"))
+# print(collection)
+# print(collec)
+# print(type(collection))
+# print(len(collec))
+# print(empty_Set)
+
+# ----------------------------------program 6-----------------------------------------
+
+from Loops import *
+
+# fun(5)
+# mul(17)
+# lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# search(lst)
+
+tup = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+print(search_num(tup, 5))
