@@ -26,3 +26,17 @@ def search_num(tup, ele):
        print("Finding...")
     i += 1
   return -1
+
+def char(var):
+  for char in var:
+    if(char == 'a'):
+      print(f"Found a at {var.index(char)}")
+      break
+    print(char)
+    print("Not found")
+  print("END")
+
+def empty():
+  for i in range(5):
+    pass
+  print("END")

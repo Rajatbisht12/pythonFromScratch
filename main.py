@@ -72,5 +72,9 @@ from Loops import *
 # lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 # search(lst)
 
-tup = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-print(search_num(tup, 5))
+# tup = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+# print(search_num(tup, 5))
+
+# char("Hello, World! abc")
+
+empty()
