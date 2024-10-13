@@ -65,7 +65,7 @@
 
 # ----------------------------------program 6-----------------------------------------
 
-from Loops import *
+# from Loops import *
 
 # fun(5)
 # mul(17)
@@ -77,4 +77,14 @@ from Loops import *
 
 # char("Hello, World! abc")
 
-empty()
+# empty()
+
+# ----------------------------------program 7-----------------------------------------
+
+from Functions import *
+
+# print(avg(89,90))
+
+# fib(5)
+lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print_list(lst, 0)
