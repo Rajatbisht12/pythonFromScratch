@@ -81,10 +81,16 @@
 
 # ----------------------------------program 7-----------------------------------------
 
-from Functions import *
+# from Functions import *
 
-# print(avg(89,90))
+# # print(avg(89,90))
 
-# fib(5)
-lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print_list(lst, 0)
+# # fib(5)
+# lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# print_list(lst, 0)
+
+# ----------------------------------program 8-----------------------------------------
+
+from FileIO import data
+
+print(data)
