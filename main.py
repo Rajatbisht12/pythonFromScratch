@@ -91,6 +91,13 @@
 
 # ----------------------------------program 8-----------------------------------------
 
-from FileIO import data
+# from FileIO import data
 
-print(data)
+# print(data)
+
+# ----------------------------------program 9-----------------------------------------
+
+from OOPS1 import Student
+
+s1 = Student("Rajat", 22, [99, 98, 7])
+s1.get()
